@@ -25,19 +25,19 @@ switch(s)
 {
 
 case 1:
-System.out.println(":-write a programme to display first 5 armstrong number?");
+System.out.println(":-  write a programme to display first 5 armstrong number?");
 break;
 case 2:
-System.out.println(":-prompt the user to provide two no. using conditional operator to find the smallest no and print that no.");
+System.out.println(":-   prompt the user to provide two no. using conditional operator to find the smallest no and print that no.");
 break;
 case 3:
-System.out.println(":-write a program to find factorial of a given number?");
+System.out.println(":-   write a program to find factorial of a given number?");
 break;
 case 4:
-System.out.println(":-write a program to print fibonacci series ?");
+System.out.println(":-   write a program to print fibonacci series ?");
 break;
 case 5:
-System.out.println(":-find the greatest number between three numbers?");
+System.out.println(":-   find the greatest number between three numbers?");
 break;
 case 6:
 System.out.println(":-write a programe to check if a given number is prime?");
